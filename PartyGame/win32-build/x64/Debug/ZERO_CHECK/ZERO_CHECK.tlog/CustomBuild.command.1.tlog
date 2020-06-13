@@ -1,0 +1,10 @@
+^C:\DIPLOMA\KVA\PARTYGAME\WIN32-BUILD\CMAKEFILES\A78AFB4DBB97637A99AB45C0454881EA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Diploma/KVA/PartyGame -BC:/Diploma/KVA/PartyGame/win32-build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Diploma/KVA/PartyGame/win32-build/PartyGame.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

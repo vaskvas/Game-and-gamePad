@@ -1,0 +1,28 @@
+# CMake generation dependency list for this directory.
+C:/Diploma/KVA/PartyGame/CMakeLists.txt
+C:/Diploma/KVA/PartyGame/cocos2d/cmake/Modules/CocosBuildHelpers.cmake
+C:/Diploma/KVA/PartyGame/cocos2d/cmake/Modules/CocosBuildSet.cmake
+C:/Diploma/KVA/PartyGame/cocos2d/cmake/Modules/CocosConfigDefine.cmake
+C:/Diploma/KVA/PartyGame/cocos2d/cmake/Modules/CocosConfigDepend.cmake
+C:/Diploma/KVA/PartyGame/win32-build/CMakeFiles/3.17.0-rc1/CMakeCCompiler.cmake
+C:/Diploma/KVA/PartyGame/win32-build/CMakeFiles/3.17.0-rc1/CMakeCXXCompiler.cmake
+C:/Diploma/KVA/PartyGame/win32-build/CMakeFiles/3.17.0-rc1/CMakeRCCompiler.cmake
+C:/Diploma/KVA/PartyGame/win32-build/CMakeFiles/3.17.0-rc1/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake

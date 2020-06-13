@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Diploma\KVA\PartyGame\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Diploma\KVA\PartyGame\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Diploma\KVA\PartyGame\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\snakeGame\Food.cpp">
+      <Filter>Source Files\Classes\snakeGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\snakeGame\GameScene.cpp">
+      <Filter>Source Files\Classes\snakeGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\snakeGame\Snake.cpp">
+      <Filter>Source Files\Classes\snakeGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\snakeGame\SnakePart.cpp">
+      <Filter>Source Files\Classes\snakeGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\startMenu\mainGUI.cpp">
+      <Filter>Source Files\Classes\startMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\startMenu\startMenu.cpp">
+      <Filter>Source Files\Classes\startMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\modules\qrCode\QR_Encode.cpp">
+      <Filter>Source Files\Classes\modules\qrCode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\modules\qrCode\qrNode.cpp">
+      <Filter>Source Files\Classes\modules\qrCode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\modules\serverSystem\serverSystem.cpp">
+      <Filter>Source Files\Classes\modules\serverSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\modules\eventListSystem\eventListSystem.cpp">
+      <Filter>Source Files\Classes\modules\eventListSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Globals.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\audio\mainMenu.mp3">
+      <Filter>Resources\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\fonts\8bit.otf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\fonts\8bit.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\images\CloseNormal.png">
+      <Filter>Resources\images</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\images\CloseSelected.png">
+      <Filter>Resources\images</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\images\background\1.png">
+      <Filter>Resources\images\background</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\images\background\2.png">
+      <Filter>Resources\images\background</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\images\background\3.png">
+      <Filter>Resources\images\background</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\images\background\4.png">
+      <Filter>Resources\images\background</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\images\background\5.png">
+      <Filter>Resources\images\background</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\images\background\6.png">
+      <Filter>Resources\images\background</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\images\background\7.png">
+      <Filter>Resources\images\background</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Diploma\KVA\PartyGame\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\snakeGame\Food.h">
+      <Filter>Source Files\Classes\snakeGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\snakeGame\GameScene.h">
+      <Filter>Source Files\Classes\snakeGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\snakeGame\Snake.h">
+      <Filter>Source Files\Classes\snakeGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\snakeGame\SnakePart.h">
+      <Filter>Source Files\Classes\snakeGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\startMenu\mainGUI.h">
+      <Filter>Source Files\Classes\startMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\startMenu\startMenu.h">
+      <Filter>Source Files\Classes\startMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\modules\qrCode\QR_Encode.h">
+      <Filter>Source Files\Classes\modules\qrCode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\modules\qrCode\qrNode.h">
+      <Filter>Source Files\Classes\modules\qrCode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\modules\serverSystem\serverSystem.h">
+      <Filter>Source Files\Classes\modules\serverSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\modules\eventListSystem\eventListSystem.h">
+      <Filter>Source Files\Classes\modules\eventListSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Globals.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Diploma\KVA\PartyGame\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Diploma\KVA\PartyGame\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{B435954E-28DA-3B86-A673-9D0AC57FAE10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\audio">
+      <UniqueIdentifier>{232FACD5-3186-3FC3-B8E6-9E31C003AF2E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{E3F54B5A-797B-332C-A064-03DB28BD03F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\images">
+      <UniqueIdentifier>{88E00959-B1F0-363D-88CC-669AA814D562}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\images\background">
+      <UniqueIdentifier>{DB0E49D3-76AC-3CB1-BFC6-ACD8E7C988AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{D2379501-EE89-3E46-B5B5-AC29FAB28584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{93CF2DBD-E529-341D-ACB3-1B8C5941D579}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{0BEDA7D5-45F4-3A43-B45E-F2FDE475C416}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{97DC0D57-DD15-3E36-92B9-66B44AA72178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\modules">
+      <UniqueIdentifier>{1bd109ac-6e15-4639-a752-95d900813af8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\snakeGame">
+      <UniqueIdentifier>{f3ab6f74-dde2-45d0-897f-6e250d93576a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\startMenu">
+      <UniqueIdentifier>{3dbdb789-9537-437f-9749-eb49230efc4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\modules\serverSystem">
+      <UniqueIdentifier>{a8702544-6693-4500-a00d-9c5325b8afd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\modules\qrCode">
+      <UniqueIdentifier>{37d2d754-cd04-4915-a148-7d4305628a6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\modules\eventListSystem">
+      <UniqueIdentifier>{271e5343-1e73-44b3-85c5-ba7f2adfb817}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

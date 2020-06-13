@@ -1,0 +1,5 @@
+﻿  startMenu.cpp
+..\Classes\scenes\startMenu.cpp(57): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека C:/Diploma/KVA/PartyGame/win32-build/Release/PartyGame.lib и объект C:/Diploma/KVA/PartyGame/win32-build/Release/PartyGame.exp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+  PartyGame.vcxproj -> C:\Diploma\KVA\PartyGame\win32-build\bin\PartyGame\Release\PartyGame.exe

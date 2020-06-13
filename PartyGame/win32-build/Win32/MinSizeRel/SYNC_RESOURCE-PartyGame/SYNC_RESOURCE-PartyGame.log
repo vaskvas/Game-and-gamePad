@@ -1,0 +1,9 @@
+﻿  Copying resources for PartyGame ...
+  Building Custom Rule C:/Diploma/KVA/PartyGame/CMakeLists.txt
+      copying to C:/Diploma/KVA/PartyGame/win32-build/bin/PartyGame/MinSizeRel/Resources
+    Create C:/Diploma/KVA/PartyGame/win32-build/bin/PartyGame/MinSizeRel/Resources\fonts\Marker Felt.ttf
+    Create C:/Diploma/KVA/PartyGame/win32-build/bin/PartyGame/MinSizeRel/Resources\HelloWorld.png
+    Create C:/Diploma/KVA/PartyGame/win32-build/bin/PartyGame/MinSizeRel/Resources\res\.gitkeep
+    ...
+    0 items updated, 6 items created 
+    takes 0.0529999732971 seconds
